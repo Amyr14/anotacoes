@@ -1,0 +1,1 @@
+O polígono de frequência é uma representação gráfica de uma [[Tabela de Frequência | tabela de frequências]] por meio de um polígono. Consiste em representar os pontos médios dos [[Intervalos de Classe |intervalos de classe]] no eixo horizontal e frequências no eixo vertical. Para plotar o polígono, basta ligar as frequências.

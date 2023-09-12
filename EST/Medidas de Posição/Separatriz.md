@@ -1,0 +1,1 @@
+Divide os dados de uma amostra em quantidades iguais de elementos. As separatrizes [[Quartil |quartil]], [[Percentil |percentil]] e [[Mediana |mediana]] compartilham uma fórmula

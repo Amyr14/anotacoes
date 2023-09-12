@@ -1,0 +1,1 @@
+Diferença entre o valor máximo e mínimo de uma amostra. $$\large AA = max - min$$

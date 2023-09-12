@@ -1,0 +1,1 @@
+Amostra de dados ordenada de forma crescente ou decrescente.

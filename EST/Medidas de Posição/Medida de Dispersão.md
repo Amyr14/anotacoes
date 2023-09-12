@@ -1,0 +1,1 @@
+É uma medida estatística que tenta descrever a variabilidade de um conjunto de dados. As mais usadas são a [[Medida Interpercentílica |medida interpencentílica]]

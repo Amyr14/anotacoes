@@ -1,0 +1,1 @@
+O polígono de [[Frequência Acumulada |frequência acumulada]] é semelhante ao [[Polígono de Frequência |polígono de frequência]], sendo que a única diferença é que ao invés de ser representada a frequência simples das [[Intervalos de Classe |classes]], é representada a sua frequência acumulada. O processo de plotagem é o mesmo.

@@ -1,0 +1,1 @@
+A frequência relativa de uma [[Intervalos de Classe |classe]] é a razão de sua frequência simples pela [[Frequência Acumulada |frequência acumulada]] de todas as classes da [[Tabela de Frequência |tabela de frequência]].

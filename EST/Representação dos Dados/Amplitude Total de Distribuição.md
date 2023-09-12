@@ -1,0 +1,1 @@
+Em uma [[Tabela de Frequência |tabela de frequências]] com [[Intervalos de Classe |intervalos de classe]], a amplitude total de distribuição é dada pela diferença do limite superior da última classe com o limite inferior da primeira classe. $$\large L(max) - l(min)$$

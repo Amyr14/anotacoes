@@ -1,0 +1,1 @@
+Um elemento de uma amostra que se diferencia consideravelmente dos outros. Podem alterar significamente medidas de posição.

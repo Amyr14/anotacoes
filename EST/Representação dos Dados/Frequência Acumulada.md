@@ -1,0 +1,1 @@
+Em uma amostra de dados disposta em uma [[Tabela de Frequência |tabela de frequências]], a frequência acumulada é a soma de todas as frequências anteriores até o ponto atual.

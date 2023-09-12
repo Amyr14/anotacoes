@@ -1,0 +1,3 @@
+[[Separatriz]] que divide uma amostra de dados em quatro partes. Para identificação do quartil $\large k$, identificar a classe cuja frequência absoluta é imediatamente superior a: $$ \large \frac{k \cdot \sum{fi}}{4} $$
+E então, aplica-se a expressão:  $$\large Q_k = li^* + \frac{(\frac{k\sum{fi}}4 - Fi_{ant}) hi^*}{fi^*}$$
+Onde $\large li^*$ é o limite inferior da respectiva classe, $\large \frac{\sum{fi}}4$ é a frequência absoluta dividida por quatro, $\large hi^*$ é a amplitude do intervalo e $\large fi^*$ é a frequência simples da classe

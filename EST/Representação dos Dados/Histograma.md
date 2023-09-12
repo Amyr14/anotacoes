@@ -1,0 +1,1 @@
+É a representação gráfica de uma [[Tabela de Frequência |tabela de frequência]]. Consiste em representar o ponto médio das [[Intervalos de Classe |classes]] no eixo horizontal e as frequências simples no eixo vertical, desenhando um retângulo começando do limite inferior e terminando no limite superior.

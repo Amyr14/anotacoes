@@ -1,0 +1,1 @@
+Verifica a tendência dos valores de uma amostra a um certo valor central. 
