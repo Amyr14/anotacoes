@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDI - ANN/Teorema de Bolzano.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4395554fb484e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Conda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDI - ANN/Teorema de Bolzano.md",
+                "file": "Programação/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CDI - ANN/Teorema de Bolzano.md",
+                "file": "Programação/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CDI - ANN/Teorema de Bolzano.md"
+                "file": "Programação/Conda.md"
               }
             }
           }
@@ -146,8 +159,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b5f12d2cc3bc971",
+  "active": "f4395554fb484e9b",
   "lastOpenFiles": [
+    "Programação/Gerenciador de Pacotes.md",
+    "Programação/NPM.md",
+    "Programação/JS.md",
+    "Programação/Conda.md",
+    "README.md",
+    "Programação/Ambientes Virtuais.md",
+    "Programação",
+    "CDI - ANN/Teorema de Bolzano.md",
     "CDI - ANN/Teorema de Rolle.md",
     "CDI - ANN/Ordem de Convergência.md",
     "CDI - ANN/Método do Ponto Fixo.md",
@@ -156,7 +177,6 @@
     "CDI - ANN/Método da Bisseção.md",
     "CDI - ANN/Zero da Função.md",
     "CDI - ANN/Sistemas de Ponto Flutuante.md",
-    "CDI - ANN/Teorema de Bolzano.md",
     "EST/Medidas de Posição/Medida Interpercentílica.md",
     "EST/Medidas de Posição/Percentil.md",
     "EST/Medidas de Posição/Quartil.md",
@@ -168,12 +188,6 @@
     "EST/Medidas de Posição/Média Aritmética.md",
     "EST/Medidas de Posição/Variância.md",
     "EST/Medidas de Posição/Desvio Médio Absoluto.md",
-    "EST/Representação dos Dados/Tabela de Frequência.md",
-    "EST/Representação dos Dados/Polígono de Frequência Acumulada.md",
-    "EST/Representação dos Dados/Polígono de Frequência.md",
-    "EST/Representação dos Dados/Histograma.md",
-    "EST/Representação dos Dados/Frequência Relativa de Classe.md",
-    "EST/Representação dos Dados/Frequência Acumulada.md",
     "Imagens/Pasted image 20230811095211.png",
     "EST/Medidas de Posição/Untitled/Untitled",
     "EST/Medidas de Posição/Promédias",
