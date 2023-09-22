@@ -1,0 +1,1 @@
+Um ambiente virtual ou (venv) é um container que encapsula um projeto junto com suas dependências, configurações e etc. Usar venvs é recomendado, pois se qualquer erro acontecer com as dependências do projeto ou com o projeto em si, o sistema estará seguro.

@@ -1,0 +1,1 @@
+Um gerenciador de pacotes é um software (geralmente CLI) que te permite instalar pacotes de desenvolvimento de forma prática e eficiente. Dois exemplos são o [[npm]] e o [[pip]], gerenciadores de pacotes do [[Node]] e do [[Python]], respectivamente.

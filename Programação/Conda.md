@@ -1,0 +1,1 @@
+É um [[gerenciador de pacotes]], ambientes e dependências (principalmente para projetos python) que te permite configurar [[ambientes virtuais]] facilmente. Uma das facilidades do conda é que ele baixa as dependências do seu projeto localmente.
