@@ -1,0 +1,1 @@
+Fluxo contínuo de dados através de uma conexão.

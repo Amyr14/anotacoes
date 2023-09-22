@@ -1,0 +1,1 @@
+Estabelece conexão lógica entre dois processos. Os seus dois mais famosos protocolos são o [[TCP]] e o [[UDP]].

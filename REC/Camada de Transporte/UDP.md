@@ -1,0 +1,1 @@
+"User Datagram Protocol". Protocolo da [[Camada de Transporte |camada de transporte]]. É um protocolo que se destaca pela sua simplicidade. Pode ser vantajoso para aplicações que não precisam estabelecer conexão e que podem sacrificar um pouco de confiabilidade.
